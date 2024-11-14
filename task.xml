@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SatBlockATProject>
+    <MatchType>RIFT</MatchType>
+    <BlockMode>image</BlockMode>
+    <GridNumX type="int32">9</GridNumX>
+    <GridNumY type="int32">9</GridNumY>
+    <Source>J:\1_Data\1_173_GF7_SV02\1_GF7\GF7_DLC_E117.9_N37.2_20210108_L1A0000433870\GF7_DLC_E117.9_N37.2_20210108_L1A0000433870-BWDPAN.tiff</Source>
+    <Reference>J:\1_Data\1_173_GF7_SV02\1_GF7\GF7_DLC_E117.9_N37.2_20210108_L1A0000433870\GF7_DLC_E117.9_N37.2_20210108_L1A0000433870-FWDPAN.tiff</Reference>
+    <DEM>D:\1_SoftWare\15_RsTool\V4\DEM\globaldem.tif</DEM>
+    <OutputDir>D:\1_SoftWare\15_RsTool\V4\Result\SingleMatchProject</OutputDir>
+</SatBlockATProject>
