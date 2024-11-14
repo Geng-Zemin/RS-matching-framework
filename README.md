@@ -7,7 +7,7 @@ FRIM is a remote sensing image matching framework designed to provide efficient 
 # Usage
 
 
-FRIM runs through a command-line tool. To use it, enter the following command in the CMD (Command Prompt):
+RIM runs through a command-line tool. Before using it, you need to extract the opencv_world460.zip file. To run it, enter the following command in the CMD (Command Prompt):
 
 > RSFM.exe task.xml
 
